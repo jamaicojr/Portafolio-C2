@@ -1,2 +1,4 @@
 # Portafolio-C2
-first port
+En este portafilio estoy aprendiendo a análizar de datos de páginas web y de archivos csv
+
+
